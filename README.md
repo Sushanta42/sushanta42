@@ -4,8 +4,6 @@
 
 - 👨‍💻 All of my projects are available at [https://sushanta42.github.io/sushantamaskey-io/](https://sushanta42.github.io/sushantamaskey-io/)
 
-- 📫 How to reach me **sushanta.maskey42@gmail.com**
-
 - 📄 Know about my experiences [https://sushanta42.github.io/sushantamaskey-io/resume/Sushanta%20Maskey%20CV.pdf](https://sushanta42.github.io/sushantamaskey-io/resume/Sushanta%20Maskey%20CV.pdf)
 
 <p align="left">
